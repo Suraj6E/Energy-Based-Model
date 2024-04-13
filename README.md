@@ -31,7 +31,7 @@ This research aims to make several contributions to the field of data science:
 ## TIMELINE:
 The proposed research will be conducted over a period of three years, divided into distinct phases including literature review, algorithm development, experimentation, and dissemination of results. A tentative timeline is provided below:
 
-<b><i>Month 2: </i></b> Literature review, theoretical groundwork, and algorithm design.
+<b><i>Month 2: </i></b> Literature review, theoretical groundwork, and algorithm design.</br>
 <b><i>Month 3: </i></b> Algorithm implementation, experimentation, and initial analysis of results.</br>
 <b><i>Month 6: </i></b> Refinement of methodologies, extensive experimentation, writing of thesis, and publication of research findings.</br>
  
